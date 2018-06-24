@@ -1,0 +1,86 @@
+a {
+    font-family: sans-serif;
+    color: white;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li {
+    float: right;
+}
+
+ul {
+    background: grey;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    margin: 0;
+}
+
+.company {
+    font-size: 24px;
+    float: left;
+}
+
+.heading {
+    background: black;
+}
+
+h1 {
+    margin: 0;
+    color: yellow;
+    padding: 100px 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+.green-box {
+    display: inline-block;
+    border-radius: 25px;
+    margin: 30px;
+    background: rgb(106, 230, 182);
+    padding: 11% 11%
+}
+.orange-box {
+    display: inline-block;
+    margin: 25px 15px;
+    background: rgb(231, 179, 83);
+    padding: 11% 18%;
+    height: 11%;
+    width: 9%;
+}
+
+.info-box {
+    display: inline-block;
+    text-align: left;
+    margin: 25px 15px;
+    padding: 11% 18%;
+    height: 8%;
+    width: 6%;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5RKVe7aqwOOXnExHLUWvEM5kXYjZCM6UuXSCd2qVQ8NsuAG-");
+    background-size: 100%;
+    border: solid;
+    border-color: black;
+}
+
+.photo-box {
+    display: inline-block;
+    word-wrap: break-word;
+    position: right;
+    margin: 25px 15px;
+    margin-left: 33px;
+    padding: 11% 18%;
+    height: 8%;
+    width: 6%;
+    background-image: url("https://vignette.wikia.nocookie.net/shrek/images/9/9b/GoodShrekImage.png/revision/latest?cb=20171217221732");
+    border: solid;
+    border-color: black;
+}
+
+footer {
+    padding: 70 px;
+    background: rgb(23, 23, 46);
+    height: 40px;
+}
